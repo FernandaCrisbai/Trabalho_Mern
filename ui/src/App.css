@@ -1,0 +1,28 @@
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: rgb(46, 46, 46);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.mrgnbtm {
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+
+.btncenter {
+  
+  text-align: center;
+  margin-bottom: 12px;
+  margin-top: 20px;
+  
+}
+
+
+.mrgnttm10 {
+  margin-bottom: 12px;
+
+}
+
+
